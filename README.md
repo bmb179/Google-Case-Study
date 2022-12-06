@@ -15,4 +15,4 @@ How Can a Wellness Tech Company Play It Smart? Google Data Analytics Professiona
 
 Companion analysis with visualizations to come in corresponding Substack article:
 
-https://dataalchemy.substack.com/
+https://dataalchemy.substack.com/p/how-can-a-wellness-tech-company-play
