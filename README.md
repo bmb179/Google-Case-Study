@@ -11,6 +11,8 @@ How Can a Wellness Tech Company Play It Smart? Google Data Analytics Professiona
 
 - R code utilizes the following libraries: tidyverse, readr, ggplot2, dplyr.
 
+- archize.zip contains the raw data that was taken from Kaggle.
+
 Companion analysis with visualizations to come in corresponding Substack article:
 
 https://dataalchemy.substack.com/
