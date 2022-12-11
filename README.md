@@ -1,5 +1,5 @@
 # Google-Case-Study
-How Can a Wellness Tech Company Play It Smart? Google Data Analytics Professional Certificate Case Study
+How Can a Wellness Tech Company Play It Smart? Google Data Analytics Professional Certificate Case Study (Using SQL, R, and Tableau)
 
 - Documentation for SQL and R code is included in the form of comments, annotated within the code files.
 
